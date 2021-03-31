@@ -1,0 +1,141 @@
+
+/* BODY SECTION
+____________________________
+*/
+
+body{
+  background-color: #fcfcfc;
+  padding-top: 80px;
+  margin-left: 55px;
+  margin-right: 100px;
+}
+
+/* NAVBAR SECTION */
+
+.navbar {
+    background-color: #fcfcfc;
+    border: 0;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    /* height: 10px; */
+    /* margin-left: -6px; */
+}
+
+.navbar-nav > li{
+  padding-left:15px;
+  padding-right:15px;
+  vertical-align: bottom;
+}
+
+.navbar.navbar-default .navbar-collapse {
+    background-color: transparent;
+    border: 0;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+
+.navbar-brand {
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 700;
+  font-size: 2em;
+  font-style: black;
+}
+
+#linkedin_logo_header {
+  margin-top: 2px;
+  /* vertical-align: bottom; */
+}
+
+#inputname, #inputemail, #inputtext {
+  font-size: .8em;
+}
+
+#newsection {
+  margin-top: 20px;
+}
+
+h2 {
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 700;
+  font-size: 2em;
+}
+
+h3 {
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 700;
+  font-size: 1.4em;
+}
+
+h4{
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 700;
+  font-size: 1.1em;
+}
+
+
+h5{
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+}
+
+p, ol, li, label {
+  font-family: 'Roboto'5 sans-serif;
+  font-weight: 340;
+  line-height: 14pt;
+  font-size: .8em;
+  margin-bottom: 10px;
+}
+
+/* MY PROJECTS SECTION */
+
+.img-thumbnail {
+  border: none;
+  background-color: #fcfcfc;
+  padding-bottom: 40px;
+}
+
+.projectdetails{
+  display: inline-block;
+  word-wrap: break-word;
+  max-height: 12.6em;
+  line-height: 1.8em;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.myprojects_thumbnail{
+  width: 100%;
+  height: 130px;
+  overflow: hidden;
+  border-radius: 5px;
+}
+
+
+/* CONTACT SECTION */
+
+.contact_short {
+  width: 30%;
+  height: 2em;
+}
+
+.contact_comments {
+  width: 40%;
+  height: 5em;
+}
+
+::placeholder{
+  font-family: 'Roboto', sans-serif;
+  font-weight: 100;
+  /* color: lightgray; */
+  /* font-style: italic; */
+  /* font-size: .8em; */
+}
+
+.contactdetailsbottom{
+  font-family: 'Roboto', sans-serif;
+  font-weight: 200;
+}
+
+/* #downloadCV {
+  align-content: right;
+} */
