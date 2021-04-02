@@ -112,7 +112,7 @@ p, ol, li, label {
 
 .myprojects_thumbnail{
   width: 100%;
-  height: aut;
+  height: auto;
   overflow: hidden;
   border-radius: 5px;
 }
